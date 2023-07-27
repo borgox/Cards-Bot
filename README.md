@@ -9,7 +9,7 @@ This Python bot is designed to be used with Disnake, an extension of the Discord
 To run the bot, you need to have Python and the Disnake library installed. Additionally, make sure you have set up a Discord bot and obtained its token.
 
 1. Install Disnake: `pip install disnake`
-2. 2. Replace `'token_here'` with your actual Discord bot token in the last line of the code:
+2. Replace `'token_here'` with your actual Discord bot token in the last line of the code:
 ```python
 bot.run('token_here')
 ```
