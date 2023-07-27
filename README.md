@@ -1,6 +1,6 @@
 # Cards Bot
 
-This Python bot is designed to be used with Disnake, an extension of the Discord.py library that supports Discord interactions (such as slash commands and buttons). The bot has the ability to manage a card collection, where users can interact with the bot to add, view, and claim cards.
+This Python bot is designed to be used with Disnake, a __fork__ of the Discord.py library that supports Discord interactions (such as slash commands and buttons). The bot has the ability to manage a card collection, where users can interact with the bot to add, view, and claim cards.
 
 **Note:** This bot is a work in progress and may contain bugs. Please keep this in mind when using it.
 
