@@ -62,7 +62,7 @@ The cards have different rarities with associated probabilities:
 
 ## Known Issues
 
-As mentioned earlier, this bot is still a work in progress, and there may be bugs or incomplete features. The developer is actively working on improving and completing the bot. If you encounter any issues or have suggestions, please feel free to report them to the bot developer.
+NOTHING WORKS!!!!
 
 ---
 
