@@ -62,7 +62,7 @@ The cards have different rarities with associated probabilities:
 
 ## Known Issues
 
-NOTHING WORKS!!!!
+I was not so bored to fix this whole code :)
 
 ---
 
